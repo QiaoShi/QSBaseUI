@@ -1,0 +1,6 @@
+framework module Pods_QSBaseUI {
+  umbrella header "Pods-QSBaseUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
